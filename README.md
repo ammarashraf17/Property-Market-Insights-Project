@@ -18,3 +18,35 @@ This project analyzes property valuation trends for selected buildings using Q2 
 3) Volatility Assessment – Identifying stability or fluctuations in property prices.
 
 4) Visual Comparisons – Interactive charts built in Power BI.
+
+FINDINGS
+
+1) Astra Suites			
+			
+Strong upward trend: The price increased from RM 325.11 to RM 1,455.04.			
+			
+Likely indicates a high-end development or strong demand in recent years.			
+			
+Most volatile, but the price growth is clear and aggressive.			
+			
+
+2) Flat Jalan Aman			
+			
+Shows extreme volatility: from RM 62.51 to RM 272.73.			
+			
+May reflect low-cost housing, sensitive to economic conditions or lack of consistent demand.			
+			
+Suitable for budget buyers, but less investment-stable.			
+			
+
+3) Harbourview			
+			
+Price grew steadily from RM 945.80 to RM 1,331.55.			
+			
+Mild and stable growth, suggesting a mature market.			
+			
+Good option for investors seeking stability over high return.			
+			
+* Chart in Power Bi			
+<img width="1378" height="1274" alt="image" src="https://github.com/user-attachments/assets/cbfeb315-a9e1-478d-a2fe-5283e827e2e0" />
+
