@@ -22,7 +22,10 @@ This project analyzes property valuation trends for selected buildings using Q2 
 
 FINDINGS
 
-1) Astra Suites			
+* Chart in Power Bi			
+<img width="1696" height="699" alt="image" src="https://github.com/user-attachments/assets/ba212b0d-5b8a-4e0a-beb9-1aff61c1f922" />
+
+- Astra Suites			
 			
 Strong upward trend: The price increased from RM 325.11 to RM 1,455.04.			
 			
@@ -31,7 +34,7 @@ Likely indicates a high-end development or strong demand in recent years.
 Most volatile, but the price growth is clear and aggressive.			
 			
 
-2) Flat Jalan Aman			
+- Flat Jalan Aman			
 			
 Shows extreme volatility: from RM 62.51 to RM 272.73.			
 			
@@ -40,7 +43,7 @@ May reflect low-cost housing, sensitive to economic conditions or lack of consis
 Suitable for budget buyers, but less investment-stable.			
 			
 
-3) Harbourview			
+- Harbourview			
 			
 Price grew steadily from RM 945.80 to RM 1,331.55.			
 			
@@ -48,7 +51,6 @@ Mild and stable growth, suggesting a mature market.
 			
 Good option for investors seeking stability over high return.			
 			
-* Chart in Power Bi			
-<img width="1696" height="699" alt="image" src="https://github.com/user-attachments/assets/ba212b0d-5b8a-4e0a-beb9-1aff61c1f922" />
+
 
 
