@@ -19,6 +19,7 @@ This project analyzes property valuation trends for selected buildings using Q2 
 
 4) Visual Comparisons – Interactive charts built in Power BI.
 
+
 FINDINGS
 
 1) Astra Suites			
@@ -48,5 +49,6 @@ Mild and stable growth, suggesting a mature market.
 Good option for investors seeking stability over high return.			
 			
 * Chart in Power Bi			
-<img width="1378" height="1274" alt="image" src="https://github.com/user-attachments/assets/cbfeb315-a9e1-478d-a2fe-5283e827e2e0" />
+<img width="1696" height="699" alt="image" src="https://github.com/user-attachments/assets/ba212b0d-5b8a-4e0a-beb9-1aff61c1f922" />
+
 
